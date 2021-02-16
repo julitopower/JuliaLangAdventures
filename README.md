@@ -14,7 +14,7 @@ tar -xvzf julia-1.5.3-linux-x86_64.tar.gz
 ```
 * Move the installation directory to ```/opt/```, with the following command 
 ```
-sudo mv julia-1.5.2/ /opt/
+sudo mv julia-1.5.3/ /opt/
 ```
 * Create a link to the julia executable in ```/usr/local/bin```, which is supposed to be in your ```$PATH```, with the following command 
 ```
