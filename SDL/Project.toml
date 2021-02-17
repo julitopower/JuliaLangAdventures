@@ -1,0 +1,7 @@
+name = "SDL"
+uuid = "5010eb60-682d-40ff-8416-efd8441ee39a"
+authors = ["Julio Delgado Mangas <julio.delgadomangas@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+SimpleDirectMediaLayer = "98e33af6-2ee5-5afd-9e75-cbc738b767c4"
